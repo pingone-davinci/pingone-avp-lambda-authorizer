@@ -47,6 +47,7 @@ permit (
 ## Steps
 
 ### Configure AWS Lambda Environment Variables
+- Add the variable `AWS_DATA_PATH` with the value `./models` to use the service data model.
 
 
 ### Summary
